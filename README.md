@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Florencia
-- 👀 I’m interested in front end development and digital marketing
+- 👀 I’m interested in HTML, CSS and JavaScript
 - 📫 How to reach me: florenciacopertari@gmail.com 
 
 <!---
